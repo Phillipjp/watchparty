@@ -1,16 +1,3 @@
-+ Inject HTML into webpack - floating box 
+To start the server locally change to the server directory and run `npm run start`
 
-+ Connect client to server with socket io
-
-+ input from client 
-
-+ broadcast response to connected - io not socket
-
-+ shift file injections to on button
-
-+ on wrong url redirect to itv in new tab
-
-+ Display chat messages
-
-inject js event listenerds and emit specific events
 
